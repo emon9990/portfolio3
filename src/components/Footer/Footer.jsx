@@ -31,10 +31,11 @@ const Footer = () => {
             <p>145 New York, FL 5467, USA</p>
           </div>
           <ul className={css.menu}>
-            <li>Services</li>
-            <li>Works</li>
-            <li>Notes</li>
-            <li>Experience</li>
+          <li><a className={css.link} href='https://www.facebook.com/ToriqulTSR'>Facebook</a></li>
+            <li><a className={css.link} href='https://twitter.com/Toriqulislamtsr?fbclid=IwAR1vnVQB21CTFZTJTPUhwE-cW2DJKZYv8bF3yOsx1EKMFY7RzTJ8N0vKbSY'>Twitter</a></li>
+            <li><a className={css.link} href='https://www.linkedin.com/in/tusherseo?fbclid=IwAR3sBNnZQsfr6BxJ7gQCLjy9XpQWIr9fnXmHvrsTBfYKM42fMjq3e7sxLcM'>Linkedin</a></li>
+            <li><a className={css.link} href='https://www.instagram.com/toriqulpg/?fbclid=IwAR2COyWP5w2k64goRhC3_KnifnioFe4hzpvEo3R1rTJvkFIqBCd-CiHbsY4'>Instagram</a></li>
+            <li><a className={css.link} href='https://www.pinterest.com/toriqulislamtusher/'>Pinterest</a></li>
           </ul>
         </div>
       </motion.div>

@@ -21,7 +21,7 @@ const Portfolio = () => {
             <span className="primaryText">My Latest Works</span>
             <p style={{marginTop: "10px"}}>Perfect solution for digital experience</p>
           </div>
-          <span className="secondaryText">Explore More Works</span>
+          
         </motion.div>
 
 
